@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5287e858c6b5a9678200083c
+# 6 kyu
 def narcissistic( value ):
 	numbers = list(str(value))
 	sum = 0

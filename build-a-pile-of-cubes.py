@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5592e3bd57b64d00f3000047
+# 6 kyu
 def find_nb(m):
 	used=0
 	count = 0

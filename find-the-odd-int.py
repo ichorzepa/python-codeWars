@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/54da5a58ea159efa38000836
+# 6 kyu
 import numpy as np
 def find_it(seq):
     x = np.array(seq)
