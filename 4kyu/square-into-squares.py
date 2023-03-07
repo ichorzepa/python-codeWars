@@ -12,4 +12,4 @@ def decompose(n):
 	else:
 		return sorted(elements)
 
-print(decompose(50))
+print(decompose(11))
